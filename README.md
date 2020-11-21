@@ -1,3 +1,12 @@
+Clone da interface em React, feito em estudo por: https://www.youtube.com/watch?v=u9FnmBdBl5k&ab_channel=LucasNhimi
+
+Executar projeto: npm start
+
+Imagens do projeto funcionando estão na pasta: screnshots.
+
+Todos os direitos reservados.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
